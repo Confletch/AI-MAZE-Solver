@@ -94,9 +94,6 @@ mazes/                # Folder containing maze text files
 ---
 
 ## Authors
-Connor Fletcher
-Stell Hyatt
-Ryan Miller
-- Your Name (GitHub: yourusername)
-- Teammate Name
-- Teammate Name
+- Connor Fletcher
+- Stell Hyatt
+- Ryan Miller
